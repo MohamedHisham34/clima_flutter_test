@@ -9,6 +9,7 @@ import 'package:geolocator/geolocator.dart';
 import 'package:http/http.dart' as http;
 
 Location location = Location();
+var all_weatherDatarespond;
 
 class getLocationData {
   final Uri url;
@@ -17,12 +18,16 @@ class getLocationData {
   Future<void> getLocationDataFunction() async {
     await location.getCurrentLocation();
     http.Response response = await http.get(url);
-    var allData = response.body;
+    all_weatherDatarespond = response.body;
     var StateCode = response.statusCode;
-    var Longitude = jsonDecode(allData)["coord"]["lon"];
-    var latitude = jsonDecode(allData)["coord"]["lat"];
-    print(Longitude);
-    print(latitude);
-    print(StateCode);
+    // var Longitude = jsonDecode(all_weatherDatarespond)["coord"]["lon"];
+    // var latitude = jsonDecode(all_weatherDatarespond)["coord"]["lat"];
+    // print(Longitude);
+    // print(latitude);
+    // print(StateCode);
+  }
+
+  String getWeatherData() {
+    return all_weatherDatarespond;
   }
 }
