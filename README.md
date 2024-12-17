@@ -1,6 +1,6 @@
-# clima_flutter_test
+# Chat_room
 
-A new Flutter project.
+Flutter project That Provide Secured Chat Room With 2 Users With Real Time Updates 
 
 ## Getting Started
 
