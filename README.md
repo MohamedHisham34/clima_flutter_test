@@ -2,9 +2,19 @@
 
 Flutter project That Provide Secured Chat Room With 2 Users With Real Time Updates 
 
+![GitHub-Background](https://github.com/user-attachments/assets/e50fe5da-8eb7-4721-9b4d-4096941adf8b)
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### App Folder Structure : (Folders By Type/Domain)
+This App Contains 7 Screens
+1-welcome_screen
+2-registration_screen
+3-login_screen
+4-rooms_screen
+5-create_room_screen
+6-join_room_screen
+7-chat_screen
 
 A few resources to get you started if this is your first Flutter project:
 
