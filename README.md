@@ -45,6 +45,11 @@ This App Contains 7 Screens
 
 ![Join Room](https://github.com/user-attachments/assets/2b52b76c-ba1a-42ff-95c9-e091b03ab2bc)
 
+7-Chat_Room
+
+![ChatRoom-2](https://github.com/user-attachments/assets/69e374ea-13b1-4ca9-90a6-6ba62aed8f47)
+
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
