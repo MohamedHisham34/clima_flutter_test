@@ -23,6 +23,12 @@ This App Contains 7 Screens
 
 7-chat_screen
 
+##Libraies Used
+
+1- chat_bubbles: ^1.6.0
+
+2- pinput: ^5.0.0
+
 ## SCREENS
 
 1- Welcome Screen
