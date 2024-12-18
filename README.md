@@ -10,11 +10,17 @@ Flutter project That Provide Secured Chat Room With 2 Users With Real Time Updat
 This App Contains 7 Screens
 
 1-welcome_screen
+
 2-registration_screen
+
 3-login_screen
+
 4-rooms_screen
+
 5-create_room_screen
+
 6-join_room_screen
+
 7-chat_screen
 
 ## SCREENS
