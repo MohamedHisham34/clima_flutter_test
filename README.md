@@ -6,7 +6,7 @@ Flutter project That Provide Secured Chat Room With 2 Users With Real Time Updat
 
 ## Getting Started
 
-### App Folder Structure : (Folders By Type/Domain)
+### App Folder Structure : <ins>(Folders By Type/Domain) </ins>
 This App Contains 7 Screens
 
 1-welcome_screen
