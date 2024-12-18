@@ -39,6 +39,12 @@ This App Contains 7 Screens
 
 4- Rooms_screen
 
+This Page Contatins 2 Options:
+
+1- Create Room Which Send You To a Page That Contains 6 Unique Digits Of Room Number Which Can Use By Other Users to Enter The Chat Room
+
+2- Join Room Which Send You To a Page That You Can Write The 6 Unique Digits of Room Number To Enter An Existing Room 
+
 ![iPhone 14   15 Pro Max - 1](https://github.com/user-attachments/assets/d4483923-f14b-4c2a-b342-9204f1e5bda2)
 
 5-Create_room_screen
