@@ -58,10 +58,8 @@ This Page Contatins 2 Options:
 7-Chat_Room
 
 ![ChatRoom-2](https://github.com/user-attachments/assets/69e374ea-13b1-4ca9-90a6-6ba62aed8f47)
-..........................................................................................................................................
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 This Application is Created By Me From Studing The - [The Complete Flutter Development Bootcamp with Dart Course](https://www.udemy.com/course/flutter-bootcamp-with-dart/) 
 
