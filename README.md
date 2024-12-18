@@ -17,7 +17,7 @@ This App Contains 7 Screens
 6-join_room_screen
 7-chat_screen
 
-##SCREENS
+## SCREENS
 
 1- Welcome Screen
 
