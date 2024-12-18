@@ -23,7 +23,7 @@ This App Contains 7 Screens
 
 7-chat_screen
 
-##Libraies Used
+## Libraies Used
 
 1- chat_bubbles: ^1.6.0
 
